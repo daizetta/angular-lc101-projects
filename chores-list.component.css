@@ -1,0 +1,10 @@
+.chores li {
+    font-size: 20px;
+    color: green;
+    font-style: italic;
+}
+
+.chores h3 {
+    text-decoration: underline;
+
+}
