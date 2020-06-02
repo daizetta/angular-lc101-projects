@@ -1,0 +1,8 @@
+.links {
+    text-decoration: underline;
+    text-align: center;
+}
+
+.links li {
+    list-style: none;
+}
